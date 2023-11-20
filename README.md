@@ -38,11 +38,9 @@ This project is an open source project. Open source projects give developers mor
     <div class="col-md-12">
       <h3>801S Sound Sensor</h3>
       <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Light_Sensor/assets/98084030/76de0043-4fdf-48b4-b3ab-b3f1a71dc21e" alt="STM32 NUCLEO F401RE" height="250" width="250">
-" alt="801S Vibration Sensor" height="250" width="300">
+
     </div>
   </div>
 
-
-![ldr-light-sensor-5mm-light-and-color-sensors-samm-1493-59-B](https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Light_Sensor/assets/98084030/76de0043-4fdf-48b4-b3ab-b3f1a71dc21e)
 
 
