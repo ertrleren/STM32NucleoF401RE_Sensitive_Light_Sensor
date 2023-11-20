@@ -35,12 +35,13 @@ This project is an open source project. Open source projects give developers mor
       <h3>STM32 NUCLEO F401RE</h3>
       <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Vibration_Sensor/assets/98084030/10c8da88-c6e0-47c9-9bda-014d660d565f" alt="STM32 NUCLEO F401RE" height="250" width="250">
     </div>
-    <div class="col-md-12">
-      <h3>801S Sound Sensor</h3>
-      <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Light_Sensor/assets/98084030/76de0043-4fdf-48b4-b3ab-b3f1a71dc21e" alt="STM32 NUCLEO F401RE" height="250" width="250">
 
-    
-  </div>
+
+    <div class="col-md-12">
+      <h3>STM32 NUCLEO F401RE</h3>
+      <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Light_Sensor/assets/98084030/527d91f5-1821-424b-82ae-5dafb12f8399" alt="STM32 NUCLEO F401RE" height="250" width="250">
+    </div>
+
 
 
 
